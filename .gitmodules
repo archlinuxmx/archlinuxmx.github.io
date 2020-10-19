@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/archlinuxmx/archlinuxmx.github.io.git
-	branch = main

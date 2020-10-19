@@ -1,5 +1,5 @@
-baseurl = "https://archlinuxmx.github.io"
-languageCode = "es-mx"
+baseurl = "/"
+languageCode = "en-US"
 title = "Arch Linux México"
 # Enable comments by entering your Disqus shortname
 #disqusShortname = ""
