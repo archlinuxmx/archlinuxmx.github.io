@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arch Linux México</title>
-    <link>archlinuxmx.github.io/</link>
+    <link>https://archlinuxmx.github.io/</link>
     <description>Recent content on Arch Linux México</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="archlinuxmx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-mx</language><atom:link href="https://archlinuxmx.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

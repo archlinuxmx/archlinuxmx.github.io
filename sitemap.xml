@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>archlinuxmx.github.io/</loc>
+    <loc>https://archlinuxmx.github.io/</loc>
   </url>
   
   <url>
-    <loc>archlinuxmx.github.io/categories/</loc>
+    <loc>https://archlinuxmx.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>archlinuxmx.github.io/tags/</loc>
+    <loc>https://archlinuxmx.github.io/tags/</loc>
   </url>
   
 </urlset>
