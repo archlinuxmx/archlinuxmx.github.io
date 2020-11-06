@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-arch"]
+	path = themes/hugo-theme-arch
+	url = https://github.com/syui/hugo-theme-arch
