@@ -1,9 +1,10 @@
-baseUrl = "http://example.org"
-languageCode = "en-US"
+baseUrl = "https://archlinux.mx"
+languageCode = "es-MX"
 title = "Arch Linux México"
+
 # Define the number of posts per site
 paginate = 10
-theme = "arch"
+theme = "hugo-theme-arch"
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
