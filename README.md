@@ -9,6 +9,14 @@ En este repositorio se esta llevando a cabo el desarrollo del sitio web de la co
 
 Para poder ejecutar el código del sitio localmente es necesario tener instalado [git](https://git-scm.com/) y [hugo](https://gohugo.io). 
 
+### Dependencias
+
+Hugo:
+* [hugo-theme-arch](https://github.com/syui/hugo-theme-arch).
+
+Clona el repositorio y agrega el contenido que está en la carpeta `themes` a la carpeta `themes` de este repositorio.
+
+---
 Clona este repositorio:
 ```sh
 git clone git@github.com:archlinuxmx/archlinuxmx.github.io.git
