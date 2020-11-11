@@ -93,5 +93,5 @@ Puedes chatear con la comunidad en [Telegram](https://t.me/archlinuxmx) y en la 
 Nos gustaría que usaras el template de [Andrea Gómez](https://github.com/da-edra/dotfiles/blob/master/.gitmessage) para el mensaje del commit.
 
 # Gracias por leer este documento
-Ya que haz llegado al final de este documento nos gustaría agradecerte por tomarte el tiempo de leerlo y con gusto estamos dispuestas y dispuestos a ayudarte.
+Ya que has llegado al final de este documento nos gustaría agradecerte por tomarte el tiempo de leerlo y con gusto estamos dispuestas y dispuestos a ayudarte.
 Gracias!
