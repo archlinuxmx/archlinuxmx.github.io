@@ -86,11 +86,15 @@ El core team revisa los Pull Requests, luego de que se da la retroalimentación 
 
 
 # Comunidad
-Puedes chatear con la comunidad en [Telegram](https://t.me/archlinuxmx) y en la sala de chat en IRC Freenode: [#archlinux-mx](ircs://chat.freenode.net/archlinux-mx)
+Puedes unirte a la comunidad en [Telegram](https://t.me/archlinuxmx) y en la sala de chat en IRC Freenode: [#archlinux-mx](ircs://chat.freenode.net/archlinux-mx)
 
 
 # Mensajes de commit y etiquetado
-Nos gustaría que usaras el template de [Andrea Gómez](https://github.com/da-edra/dotfiles/blob/master/.gitmessage) para el mensaje del commit.
+Nos gustaría que seas descriptivo en el mensaje del commit usando el prefijo `feature` y `fix`. Un ejemplo podría ser:
+
+```
+feature: Add Arch Linux theme as git submodule
+```
 
 # Gracias por leer este documento
 Ya que has llegado al final de este documento nos gustaría agradecerte por tomarte el tiempo de leerlo y con gusto estamos dispuestas y dispuestos a ayudarte.
