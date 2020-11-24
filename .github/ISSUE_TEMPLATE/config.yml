@@ -1,0 +1,9 @@
+# Referencia: https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
+blank_issues_enabled: false  # default: true
+contact_links:
+- name: 💬 IRC Freenode #archlinux-mx
+  url: ircs://chat.freenode.net/archlinux-mx
+  about: Por favor, úntete a la comunidad y haz preguntas y respuestas típicas aquí.
+- name: 💬 Telegram
+  url: https://t.me/archlinuxmx
+  about: Por favor, únete a la comunidad y haz preguntas y respuestas típicas aquí.
